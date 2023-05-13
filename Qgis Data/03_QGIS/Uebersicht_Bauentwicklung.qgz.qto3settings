@@ -1,0 +1,538 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "3d_2016_test_3d_2016_test_9dd90932_b702_4a28_9ac7_b70b6804ce62": {
+        "enabled": true,
+        "groups": []
+      },
+      "3d_Gebmodell_cut_3d_Gebmodell_cut_2b8899ad_78c4_4562_adef_2d8e6880ae6f": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_ab_2021_b247c3c8_a1cd_4c66_8ff1_36dc07cf3510": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1800_bis_1850_9f959fc5_7e6d_461e_a2a2_f1ebfcd40f4a": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1800_bis_1850_clipped_c2484e5a_1c64_4ea1_981f_ae67a6b26655": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1851_bis_1900_9572e251_67e1_401f_9f16_dd2b880d2edc": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1901_bis_1925_clipped_5f21a0c5_16c9_4311_bed9_bec4aa3ae270": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1901_bis_1925_e4f88dcf_c700_4c10_ab15_07a8a103db8c": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1926_bis_1941_5c259de2_1d7e_49e9_af43_56d805950824": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1926_bis_1941_clipped_e2a6e333_1e53_44b6_9398_e2d93ada2ff0": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1942_bis_1962_207ec27e_4a43_478f_891e_2e9807005404": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1942_bis_1962_f2a08a29_e29e_406f_8773_f3baf7fa0252": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1963_bis_1978_98251b64_dda0_4233_8d98_a889d19c77e4": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_1979_bis_2000_4e36cfae_cecc_478e_80f1_1f62536a802e": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_von_2001_bis_2020_6669c84f_c201_44ca_a088_b1b2aef3a5ef": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_vor_1800_58b12039_c3f8_40c8_9ff0_7e5ab5269efb": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauentwicklung_vor_1800_987e6447_65f7_478c_8f1d_5e0fdb1dd498": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bauhistorie_SE_O_BAUVORHABEN_79dcf499_f782_4de9_aa1b_86e93aad7b14": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bestand_1850_49487755_42fb_4823_b9f1_7c3b7f88590a": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bestand_1850_Bearbeitung_9c592475_860b_4ad8_a3f2_60a6ded62ac5": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bestand_1850_clipped_4cf31615_ed40_45c8_92ef_e8b592e51a6a": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bestand_1900_Bearbeitung_081f8bbe_37ed_4860_9777_74f731822a3d": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bestand_1925_Bearbeitung_85265ae9_0387_494e_969f_f2cb4b41b3f1": {
+        "enabled": true,
+        "groups": []
+      },
+      "Perimeter_823d0c6f_5bc5_4c51_8eba_ee4f0cff0616": {
+        "enabled": true,
+        "groups": []
+      },
+      "footprints_in_perimeter_390ed154_6077_4fb1_a747_4e4423bc8636": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:15a687dd": {
+        "enabled": true,
+        "groups": []
+      },
+      "stadt_gebaeude_stadtmodell_b548ac4a_f766_4560_8e2f_c142c969706b": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "Perimeter_823d0c6f_5bc5_4c51_8eba_ee4f0cff0616",
+      "name": "Perimeter",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_ab_2021_b247c3c8_a1cd_4c66_8ff1_36dc07cf3510",
+      "name": "Bauentwicklung_ab_2021",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_2001_bis_2020_6669c84f_c201_44ca_a088_b1b2aef3a5ef",
+      "name": "Bauentwicklung_von_2001_bis_2020",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1979_bis_2000_4e36cfae_cecc_478e_80f1_1f62536a802e",
+      "name": "Bauentwicklung_von_1979_bis_2000",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1963_bis_1978_98251b64_dda0_4233_8d98_a889d19c77e4",
+      "name": "Bauentwicklung_von_1963_bis_1978",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1942_bis_1962_f2a08a29_e29e_406f_8773_f3baf7fa0252",
+      "name": "Bauentwicklung_von_1942_bis_1962_clipped",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1901_bis_1925_clipped_5f21a0c5_16c9_4311_bed9_bec4aa3ae270",
+      "name": "Bauentwicklung_von_1901_bis_1925_clipped",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1926_bis_1941_clipped_e2a6e333_1e53_44b6_9398_e2d93ada2ff0",
+      "name": "Bauentwicklung_von_1926_bis_1941_clipped",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1942_bis_1962_207ec27e_4a43_478f_891e_2e9807005404",
+      "name": "Bauentwicklung_von_1942_bis_1962",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1926_bis_1941_5c259de2_1d7e_49e9_af43_56d805950824",
+      "name": "Bauentwicklung_von_1926_bis_1941",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1901_bis_1925_e4f88dcf_c700_4c10_ab15_07a8a103db8c",
+      "name": "Bauentwicklung_von_1901_bis_1925",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bestand_1850_49487755_42fb_4823_b9f1_7c3b7f88590a",
+      "name": "Bestand_1850",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bestand_1850_clipped_4cf31615_ed40_45c8_92ef_e8b592e51a6a",
+      "name": "Bestand_1850_clipped",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "3d_2016_test_3d_2016_test_9dd90932_b702_4a28_9ac7_b70b6804ce62",
+      "name": "3d_2016_test 3d_2016_test",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"cgUnId\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 3,
+      "layerId": "stadt_gebaeude_stadtmodell_b548ac4a_f766_4560_8e2f_c142c969706b",
+      "name": "stadt_gebaeude-stadtmodell",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"cgUnId\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_IntersectingFeatures": true,
+        "radioButton_zValue": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bestand_1925_Bearbeitung_85265ae9_0387_494e_969f_f2cb4b41b3f1",
+      "name": "Bestand_1925_Bearbeitung",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauhistorie_SE_O_BAUVORHABEN_79dcf499_f782_4de9_aa1b_86e93aad7b14",
+      "name": "Bauhistorie SE_O.BAUVORHABEN",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bestand_1900_Bearbeitung_081f8bbe_37ed_4860_9777_74f731822a3d",
+      "name": "Bestand_1900_final",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "3d_Gebmodell_cut_3d_Gebmodell_cut_2b8899ad_78c4_4562_adef_2d8e6880ae6f",
+      "name": "3d_Gebmodell_cut 3d_Gebmodell_cut",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"U_EGID\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "footprints_in_perimeter_390ed154_6077_4fb1_a747_4e4423bc8636",
+      "name": "footprints_in_perimeter",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bestand_1850_Bearbeitung_9c592475_860b_4ad8_a3f2_60a6ded62ac5",
+      "name": "Bestand_1850_final",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1851_bis_1900_9572e251_67e1_401f_9f16_dd2b880d2edc",
+      "name": "Bauentwicklung_von_1851_bis_1900",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1800_bis_1850_clipped_c2484e5a_1c64_4ea1_981f_ae67a6b26655",
+      "name": "Bauentwicklung_von_1800_bis_1850_clipped",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_von_1800_bis_1850_9f959fc5_7e6d_461e_a2a2_f1ebfcd40f4a",
+      "name": "Bauentwicklung_von_1800_bis_1850",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_vor_1800_58b12039_c3f8_40c8_9ff0_7e5ab5269efb",
+      "name": "Bauentwicklung_vor_1800_clipped",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bauentwicklung_vor_1800_987e6447_65f7_478c_8f1d_5e0fdb1dd498",
+      "name": "Bauentwicklung_vor_1800",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:15a687dd",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20701
+}
