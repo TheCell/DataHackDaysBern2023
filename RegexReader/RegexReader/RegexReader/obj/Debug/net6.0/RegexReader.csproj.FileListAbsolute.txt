@@ -1,0 +1,16 @@
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\bin\Debug\net6.0\RegexReader.exe
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\bin\Debug\net6.0\RegexReader.deps.json
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\bin\Debug\net6.0\RegexReader.runtimeconfig.json
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\bin\Debug\net6.0\RegexReader.dll
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\bin\Debug\net6.0\RegexReader.pdb
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.csproj.AssemblyReference.cache
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.AssemblyInfoInputs.cache
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.AssemblyInfo.cs
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.csproj.CoreCompileInputs.cache
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.dll
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\refint\RegexReader.dll
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.pdb
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\RegexReader.genruntimeconfig.cache
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\obj\Debug\net6.0\ref\RegexReader.dll
+C:\dev\git-repositories\DataHackDaysBern2023\RegexReader\RegexReader\RegexReader\bin\Debug\net6.0\Bauhistorie.csv
